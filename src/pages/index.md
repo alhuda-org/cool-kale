@@ -3,11 +3,11 @@ title: Al-Huda Islamic Center
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm Stackbit Exto Portfolio Theme.
+  title: Welcome to our community. Join us and support our mission!
   section_id: hero
   component: HeroBlock
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: Kan waan nuti ajjennuuf beeku fedhu **About** jalatti dubbisa. Waan ammaf
+    itti jirru yoon beeku feete **Blog** jala dheqaa. Galatoom!
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
