@@ -9,10 +9,10 @@ menus:
 template: page
 
 ---
-We are a community centered around the masjid near the intersection Courtright Rd. and Groves Rd. Here to serve the central Ohio Muslims and be a community center for the Oromo Muslims living in central. 
+We are a community centered around the masjid near the intersection Courtright Rd. and Groves Rd. We are here to serve the central Ohio Muslims and be a community center for the Oromo Muslims living in central. Our guiding principles sit on enjoining the good and forbidding the evil.
 
->  "وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى ٱلْخَيْرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ ۚ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ" Quran \[3:104\]
+> "وَلْتَكُنْ مِنْكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ" Surat Ali 'Imran Ayat 104
+>
+> "And let there be \[arising\] from you a nation inviting to \[all that is\] good, enjoining what is right and forbidding what is wrong, and those will be the successful." - Quran \[3:104\]
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla.
-
-_Thank You for reading!_
+_Thank You for reading and we hope you can join us on this mission!_
