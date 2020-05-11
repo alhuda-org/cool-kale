@@ -1,6 +1,6 @@
 ---
 title: Why Masjid Matter for Muslim Communities
-date: 2019-03-27
+date: 2020-05-11T07:00:00Z
 thumb_img_path: "/images/Screen Shot 2020-05-09 at 10.05.54 AM.png"
 content_img_path: "/images/Screen Shot 2020-05-09 at 10.05.54 AM.png"
 excerpt: Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
