@@ -40,22 +40,6 @@ sections:
   actions:
   - label: View Blog
     url: blog/index.html
-- type: portfolioblock
-  template: portfolioblock
-  title: Recent Work
-  section_id: latest-projects
-  component: PortfolioBlock
-  subtitle: An optional subtitle of the section
-  layout_style: mosaic
-  num_projects_displayed: 6
-  view_all_text: View All
-  view_all_url: portfolio/index.html
-- type: contactblock
-  template: contactblock
-  title: Contact Us
-  section_id: contact
-  component: ContactBlock
-  subtitle: An optional subtitle of the section
 menus:
   main:
     title: Home
