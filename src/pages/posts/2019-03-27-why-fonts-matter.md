@@ -1,15 +1,15 @@
 ---
-title: Why Fonts Matter
-date: '2019-03-27'
-thumb_img_path: images/12.jpg
-content_img_path: images/12.jpg
-excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem turpis at.
+title: Why Masjid Matter
+date: 2019-03-27
+thumb_img_path: "/images/Screen Shot 2020-05-09 at 10.05.54 AM.png"
+content_img_path: "/images/Screen Shot 2020-05-09 at 10.05.54 AM.png"
+excerpt: Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
+  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat
+  lorem turpis at.
 template: post
----
+subtitle: ''
 
+---
 **Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
 
 Phasellus commodo dolor sit amet, consectetur adipiscing elit. Nam a finibus magna. Sed et pulvinar dolor. Suspendisse vitae iaculis lacus. Proin vulputate, leo eget pulvinar faucibus, felis est condimentum lorem, in rhoncus neque felis ac leo. Duis felis lectus, ultrices id dolor vel, tincidunt tristique nunc. Nullam quis orci magna. Proin eget nunc et dolor hendrerit eleifend. Praesent a vehicula justo, quis convallis lacus. Phasellus porttitor, turpis vel placerat condimentum, urna felis volutpat ligula, et ultricies arcu mi ac nisl. Cras id consectetur ligula, et mollis odio. Aenean erat dui, congue vitae nisi a, aliquet lobortis eros.
