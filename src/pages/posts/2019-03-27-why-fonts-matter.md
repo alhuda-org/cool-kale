@@ -1,5 +1,5 @@
 ---
-title: Why Masjid Matter
+title: Why Masjid Matter for Muslim Communities
 date: 2019-03-27
 thumb_img_path: "/images/Screen Shot 2020-05-09 at 10.05.54 AM.png"
 content_img_path: "/images/Screen Shot 2020-05-09 at 10.05.54 AM.png"
