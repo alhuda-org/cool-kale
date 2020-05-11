@@ -1,11 +1,11 @@
 ---
-title: Contact
+title: 'Contact '
 menus:
   main:
     title: Contact
     weight: 5
 template: contact
-subtitle: ''
+subtitle: 2100 Courtright Rd, Columbus, OH 43232
 img_path: ''
 
 ---
