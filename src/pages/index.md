@@ -6,8 +6,8 @@ sections:
   title: Welcome to our community. Join our mission and support our masjid!
   section_id: hero
   component: HeroBlock
-  content: Kan waan nuti ajjennuuf beeku fedhu **About** jalatti dubbisa. Waan ammaf
-    itti jirru yoon beeku feete **Blog** jala dheqaa. Galatoom!
+  content: Assalaamu aleeykum, kan waan nuti ajjennuuf beeku fedhu **About** jalatti
+    dubbisa. Waan ammaf itti jirru yoon beeku feete **Blog** jala dheqaa. Galatooma!
 - type: servicesblock
   template: servicesblock
   title: What We Do
