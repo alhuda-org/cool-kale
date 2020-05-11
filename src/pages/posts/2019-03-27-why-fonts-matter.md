@@ -3,9 +3,7 @@ title: Why Masjid Matter for Muslim Communities
 date: 2020-05-11T07:00:00Z
 thumb_img_path: "/images/Screen Shot 2020-05-09 at 10.05.54 AM.png"
 content_img_path: "/images/Screen Shot 2020-05-09 at 10.05.54 AM.png"
-excerpt: Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat
-  lorem turpis at.
+excerpt: Majids are the foundational pillar of any muslims community.
 template: post
 subtitle: ''
 
