@@ -5,7 +5,7 @@ menus:
     title: Contact
     weight: 5
 template: contact
-subtitle: Address 2100 Courtright Rd, Columbus, OH 43232
+subtitle: Al-Huda Islamic Center - 2100 Courtright Rd, Columbus, OH 43232
 img_path: ''
 
 ---
