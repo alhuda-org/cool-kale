@@ -27,8 +27,8 @@ sections:
     content: Educational programs for both adult and school-age children, for women
       and men. Youth activities and enrichment for the next generation.
   - title: Stewardship
-    content: To inspire leaders for stewardship in community services and the take
-      an active role in our society a give the community a center that provides Islamic
+    content: Our goals are to inspire leadership in our community and take an active
+      role in our society. To provide the community a center that provides Islamic
       counseling.
 - type: postsblock
   template: postsblock
