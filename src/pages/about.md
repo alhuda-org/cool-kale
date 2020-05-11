@@ -13,6 +13,6 @@ This is 501(c) named Al-Huda Islamic Center.We are a community centered around t
 
 > "وَلْتَكُنْ مِنْكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ" Surat Ali 'Imran Ayat 104
 >
-> "And let there be \[arising\] from you a nation inviting to \[all that is\] good, enjoining what is right and forbidding what is wrong, and those will be the successful." - Quran \[3:104\] 
+> "And let there be \[arising\] from you a nation inviting to \[all that is\] good, enjoining what is right and forbidding what is wrong, and those will be the successful." - Quran \[3:104\]
 
-_Thank You for reading and we hope you can join us on this mission! Our tax ID for donors is XXXXXX-XX_
+_Thank You for reading and we hope you can join us on this mission! Our tax ID for donors is **27-0462802**_
