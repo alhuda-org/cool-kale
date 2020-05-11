@@ -19,10 +19,10 @@ sections:
     content: To teach Islamic beliefs and values in the context of deepening spirituality
       and community involvement and to empower the community to lead an Islamic way
       of life.
-  - title: Service Title
-    content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius. '
+  - title: Congregational Services
+    content: To make our Mosques vital centers for worship and community needs and
+      to empower the community to lead an Islamic way of life. This means providing
+      daily congregational prayers.
   - title: Service title
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
