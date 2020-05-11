@@ -3,7 +3,7 @@ title: Al-Huda Islamic Center
 sections:
 - type: heroblock
   template: heroblock
-  title: Welcome to our community. Join us and support our mission!
+  title: Welcome to our community. Join our mission and support our masjid!
   section_id: hero
   component: HeroBlock
   content: Kan waan nuti ajjennuuf beeku fedhu **About** jalatti dubbisa. Waan ammaf
