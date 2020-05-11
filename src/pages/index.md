@@ -23,13 +23,13 @@ sections:
     content: To make our Mosques vital centers for worship and community needs and
       to empower the community to lead an Islamic way of life. This means providing
       daily congregational prayers.
-  - title: Service title
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - title: Service title
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
+  - title: Educational Programs
+    content: Educational programs for both adult and school-age children, for women
+      and men. Youth activities and enrichment for the next generation.
+  - title: Stewardship
+    content: To inspire leaders for stewardship in community services and the take
+      an active role in our society a give the community a center that provides Islamic
+      counseling.
 - type: postsblock
   template: postsblock
   title: Latest from the Blog
