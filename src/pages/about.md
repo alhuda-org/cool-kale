@@ -1,7 +1,7 @@
 ---
 title: About Us - Nurraa
 subtitle: 'ADDRESS: 2100 Courtright Rd, Columbus, OH 43232'
-img_path: images/about.jpg
+img_path: "/images/Screen Shot 2020-05-09 at 10.05.54 AM.png"
 menus:
   main:
     title: About
