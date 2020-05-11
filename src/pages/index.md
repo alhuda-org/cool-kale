@@ -16,9 +16,9 @@ sections:
   subtitle: Hojii Teenya
   serviceslist:
   - title: Community Development
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
-      cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
-      tortor at, pulvinar orci.
+    content: To teach Islamic beliefs and values in the context of deepening spirituality
+      and community involvement and to empower the community to lead an Islamic way
+      of life.
   - title: Service Title
     content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
       a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
